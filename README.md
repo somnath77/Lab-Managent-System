@@ -4,12 +4,12 @@ This system is useful for lab admins to handle all the data regarding  machines 
 Some of the screenshots of the system are as follows:
 
 
-![](images/snap1)
+![](images/snap1.JPG)
 
-![](images/snap2)
+![](images/snap2.JPG)
 
-![](images/snap3)
+![](images/snap3.JPG)
 
-![](images/snap4)
+![](images/snap4.JPG)
 
-![](images/snap5)
+![](images/snap5.JPG)
